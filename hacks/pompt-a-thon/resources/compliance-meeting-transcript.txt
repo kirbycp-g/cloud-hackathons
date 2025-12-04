@@ -1,0 +1,25 @@
+TRANSCRIPT: FUTURE-FI STUDENT ACCOUNT KICKOFF
+DATE: October 14th
+ATTENDEES: Sarah (Product VP), David (Risk/Compliance), Jessica (Marketing Lead)
+
+[00:00:05] Sarah: Alright, thanks for joining, everyone. I know we’re short on time, but we finally got the green light from the Steering Committee for the "Future-Fi" launch. We need to move fast. The goal here is to capture the Gen Z market—specifically college students, aged 18 to 24. They’re graduating, they’re getting jobs, and we want to lock them in early.
+
+[00:00:35] Jessica: Love the name. "Future-Fi." Sounds techy. What’s the hook? Why would a student switch to us?
+
+[00:00:42] Sarah: Two things. First, no fees. None. No overdraft fees, no monthly maintenance fees. If we hit them with a $5 fee, they’re gone. Second, we’re doing a hybrid checking/savings model. We’re calling it the "Stash & Dash" feature. Basically, it rounds up every debit card purchase to the nearest dollar and dumps the change into a high-yield sub-account. I’m thinking we offer 4.5% APY on that savings portion.
+
+[00:01:10] David: Whoa, pause. 4.5%? Sarah, the prime rate is fluctuating. If we lock in 4.5% marketing material, we’re exposing ourselves to massive interest rate risk if the Fed cuts rates next year. We need language that says "Variable APY, subject to change." Also, "Stash & Dash"? We need to be careful with UDAAP regulations. We can't make it sound like a game. It’s a financial product.
+
+[00:01:40] Sarah: Okay, David, noted. We’ll add the asterisk. But the app experience has to be slick. We’re building a mobile-first interface. Mobile check deposit is standard, but I want to add "Peer-to-Peer" payments directly in the app, so they can split pizza bills.
+
+[00:01:55] Jessica: That’s great for the "Mobile App Experience" angle. I can build a campaign around "Banking that moves as fast as you." But David, what about data? If we’re targeting students, I want to use their transaction data to push notifications. Like, if they buy coffee, we send a coupon.
+
+[00:02:12] David: Absolutely not without explicit consent. That’s a huge privacy risk. We are a regional bank, not a tech startup. We have strict data privacy laws. If we share data with third-party vendors for coupons, we need a separate opt-in disclosure. That’s Risk #2. And Risk #3 is the "No Fee" claim. We can say "No Monthly Fees," but if there are wire transfer fees or foreign transaction fees, we can't just say "No Fees" broadly. The regulators will eat us alive for deceptive advertising.
+
+[00:02:50] Sarah: Fine. We’ll be specific. "No Monthly Maintenance Fees." Look, the timeline is tight. We need to launch the beta by December 1st.
+
+[00:03:00] Jessica: December? That’s finals week. Students won't be paying attention. We should aim for January—"New Year, New Financial You."
+
+[00:03:10] David: I agree with January. Gives me time to review the disclosures. I need to vet the "Stash" logic to ensure it doesn't overdraw their checking account. If a round-up causes an overdraft, even if we don't charge a fee, it’s a bad customer experience and a compliance nightmare.
+
+[00:03:25] Sarah: Okay, let's target a January launch. But I need the Product Definition Document drafted today so I can show the Board the feature set. 
