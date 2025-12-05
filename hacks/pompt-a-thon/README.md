@@ -22,14 +22,10 @@ By the end of this hack, attendees will be able to:
 
 ## Challenges
 
-- [Challenge 1: The Product Definition](#challenge-1-the-product-definition)
-  - Create a structured Product Definition Document (PDD) from unstructured meeting notes.
-- [Challenge 2: The Market Analysis](#challenge-2-the-market-analysis) 
-  - Validate the product need using customer data.
-- [Challenge 3: The Board Presentation](#challenge-3-the-board-presentation) 
-  - Visualize the strategy for the Regional Directors.
-- [Challenge 4: The Regional Campaign](#challenge-4-the-regional-campaign) 
-  - Execute the launch communications.
+- Challenge 1: The Product Definition
+- Challenge 2: The Market Analysis
+- Challenge 3: The Board Presentation
+- Challenge 4: The Regional Campaign
 
 ## Prerequisites
 
