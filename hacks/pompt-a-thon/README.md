@@ -38,6 +38,7 @@ By the end of this hack, attendees will be able to:
 ## Challenge 1: The Product Definition
 
 ### Introduction 
+#### Create a structured Product Definition Document (PDD) from unstructured meeting notes.
 Bank Executives convened a meeting to evaluate the Future-Fi Student Account, addressing key features, associated risks, and various other considerations. A comprehensive transcript of the meeting, which delineates product features, compliance risks has been produced. The objective of this effort is to formally consolidate this information into a two-page proposal, suitable for submission and presentation to the Risk Committee.
 
 > [!NOTE]  
@@ -52,6 +53,8 @@ Bank Executives convened a meeting to evaluate the Future-Fi Student Account, ad
 ## Challenge 2: The Market Analysis
 
 ### Introduction
+#### Validate the product need using customer data.
+
 Now that the initial product has been defined in Challenge 1, it is opportune to conduct market research to ascertain its potential success. Regional Bank commissioned a survey targeting students within its service area.
 
 Leverage Gemini to analyze the "Comments" column. Following this analysis, establish an additional column to categorize the feedback into the following domains: 'Interest Rates', 'Mobile App Experience', 'Fees', or 'Branch Location'.
@@ -71,6 +74,7 @@ The analysis should be concluded by presenting a concise summary of the findings
 ## Challenge 3: The Board Presentation 
 
 ### Introduction 
+#### Visualize the strategy for the Board.
 The product has been defined and initial research is complete. The next critical step is to seek approval from the board by presenting a focused pitch.
 
 The presentation should leverage data and insights gathered from previous challenges and research phases. It must be highly concise, limited to six slides, recognizing that the board's time is valuable and limited. The core emphasis must be on the local market strategy, supported by empirical data to substantiate the approach.
@@ -93,6 +97,7 @@ The pitch should focus on showing how the product solves business problems and a
 ## Challenge 4: The Regional Campaign
 
 ### Introduction 
+#### Execute the product launch communications.
 Congratulations; your team has secured approval for the new Future-Fi Student Account.
 
 However, the team's responsibilities have not concluded. Assistance is now required for the branch offices in the launch of this new product. This effort necessitates the creation of a "talking points" script for use by branch managers and sales associates. Additionally, a draft of a sample outreach email must be prepared for dissemination to prospective student customers. To support the email marketing campaign, you are also assigned the task of generating multiple alternative email subject lines to facilitate A/B testing during the campaign.
