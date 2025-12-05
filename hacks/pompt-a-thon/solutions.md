@@ -2,109 +2,96 @@
 
 ## Introduction
 
-Welcome to the coach's guide for The IoT Hack of the Century gHack. Here you will find links to specific guidance for coaches for each of the challenges.
-
-Remember that this hack includes a optional [lecture presentation](resources/lecture.pdf) that features short presentations to introduce key topics associated with each challenge. It is recommended that the host present each short presentation before attendees kick off that challenge.
+Welcome to the coach's guide for The Pompt - a - Thon gHack. Here you will find links to specific guidance for coaches for each of the challenges.
 
 > [!NOTE]  
 > If you are a gHacks participant, this is the answer guide. Don't cheat yourself by looking at this guide during the hack!
 
-## Coach's Guides
+## Coach's Guide
 
-- Challenge 1: Provision an IoT environment
-  - Create an IoT Hub and run tests to ensure it can ingest telemetry
-- Challenge 2: Your First Device
-  - Make the connection to your Edge device and see that it is properly provisioned.
-- Challenge 3: Connecting the World
-  - Connect your device and make sure it can see all other devices in your team.
-- Challenge 4: Scalable Monitoring of Telemetry
-  - Figure out the scale problem in the world of IoT. How do you hand trillions of data points of telemetry?
-
-## Coach Prerequisites
-
-This hack has prerequisites that a coach is responsible for understanding and/or setting up BEFORE hosting an event. Please review the [gHacks Hosting Guide](https://ghacks.dev/faq/howto-host-hack.html) for information on how to host a hack event.
-
-The guide covers the common preparation steps a coach needs to do before any gHacks event, including how to properly setup Google Meet and Chat Spaces.
+- [Challenge 1: The Product Definition](#challenge-1-the-product-definition)
+  - Create a structured Product Definition Document (PDD) from unstructured meeting notes.
+- [Challenge 2: The Market Analysis](#challenge-2-the-market-analysis) 
+  - Validate the product need using customer data.
+- [Challenge 3: The Board Presentation](#challenge-3-the-board-presentation) 
+  - Visualize the strategy for the Regional Directors.
+- [Challenge 4: The Regional Campaign](#challenge-4-the-regional-campaign) 
+  - Execute the launch communications.
 
 ### Student Resources
 
 Before the hack, it is the Coach's responsibility create and make available needed resources including:
 
 - Files for students
+  - compliance-meeting-transcript.txt
+  - student-survey-data.csv
 - Lecture presentation
-- Terraform scripts for setup (if running in the customer's own environment)
-
-Follow [these instructions](https://ghacks.dev/faq/howto-host-hack.html#making-resources-available) to create the zip files needed and upload them to your gHack's Google Space's Files area.
-
-Always refer students to the [gHacks website](https://ghacks.dev) for the student guide: [https://ghacks.dev](https://ghacks.dev)
-
-> [!NOTE]  
-> Students should **NOT** be given a link to the gHacks Github repo before or during a hack. The student guide intentionally does **NOT** have any links to the Coach's guide or the GitHub repo.
-
-### Additional Coach Prerequisites (Optional)
-
-_Please list any additional pre-event setup steps a coach would be required to set up such as, creating or hosting a shared dataset, or preparing external resources._
+  - #TODO
 
 ## Google Cloud Requirements
 
-This hack requires students to have access to Google Cloud project where they can create and consume Google Cloud resources. These requirements should be shared with a stakeholder in the organization that will be providing the Google Cloud project that will be used by the students.
+This hack requires students to have access to Google Workspace with the Gemini services enabled.
 
-_Please list Google Cloud project requirements._
+## Suggested Hack Agenda 
 
-_For example:_
+This is designed to fit into a 2 hour window to complete all of the challenges.
 
-- Google Cloud resources that will be consumed by a student implementing the hack's challenges
-- Google Cloud permissions required by a student to complete the hack's challenges.
-
-## Suggested Hack Agenda (Optional)
-
-_This section is optional. You may wish to provide an estimate of how long each challenge should take for an average squad of students to complete and/or a proposal of how many challenges a coach should structure each session for a multi-session hack event. For example:_
-
-- Sample Day 1
-  - Challenge 1 (1 hour)
+- Prompt - a -Thon
+  - Challenge 1 (30 mins)
   - Challenge 2 (30 mins)
-  - Challenge 3 (2 hours)
-- Sample Day 2
-  - Challenge 4 (45 mins)
-  - Challenge 5 (1 hour)
-  - Challenge 6 (45 mins)
+  - Challenge 3 (30 mins)
+  - Challenge 4 (30 mins) 
 
 ## Repository Contents
-
-_The default files & folders are listed below. You may add to this if you want to specify what is in additional sub-folders you may add._
 
 - `README.md`
   - Student's Challenge Guide
 - `solutions.md`
   - Coach's Guide and related files
 - `./resources`
-  - Resource files, sample code, scripts, etc meant to be provided to students. (Must be packaged up by the coach and provided to students at start of event)
-- `./artifacts`
-  - Terraform scripts and other files needed to set up the environment for the gHack
-- `./images`
-  - Images and screenshots used in the Student or Coach's Guide
+  - Resource files needed for challenge 1 and 2
+    - compliance-meeting-transcript.txt
+    - student-survey-data.csv
+
 
 ## Environment
+This gHack uses Google Workspace and does not require any addtional Cloud resources.
 
-- Setting Up the Environment (if not on Qwiklabs)
-  - Before we can hack, you will need to set up a few things.
-  - Run the instructions on our [Environment Setup](../../faq/howto-setup-environment.md) page.
-
-## Challenge 1: Provision an IoT environment
+## Challenge 1: The Product Definition
 
 ### Notes & Guidance
 
-This is the only section you need to include.
+Steps:
+- Open a new Google Doc. Use Gemini to ingest the compliance-meeting-transcript.txt.
+- Prompt Gemini to act as a Product Manager. Ask it to draft a "Product Definition Document" that includes: Executive Summary, Target Audience (College Students), Interest Rate Structure, and Required Compliance Disclosures.
+- Refinement: Use Gemini to expand the "Risk" section. Ask it to identify three potential regulatory risks mentioned in the transcript and suggest mitigation strategies for each.
+- Tone Check: Highlight the Executive Summary and use Gemini to "Rephrase" it to be more "formal and reassuring" for the bank's Board of Directors.
 
-Use general non-bulleted text for the beginning of a solution area for this challenge
+## Challenge 2: The Market Analysis
 
-- Then move into bullets
-  - And sub-bullets and even
-    - sub-sub-bullets
+### Notes & Guidance
+- Import student-survey-data.csv into a new Google Sheet.
+- Use Gemini (or Help me organize) to analyze the "Comments" column. Create a new column that categorizes feedback into: 'Interest Rates', 'Mobile App Experience', 'Fees', or 'Branch Location'.
+- Prompt Gemini to create a formula or Pivot Table that counts the "Mobile App Experience" complaints vs. "Interest Rate" requests.
+- Insight Generation: Ask Gemini to analyze the data and generate a clear sentence summarizing the "top requested feature" for a college student demographic.
 
-Break things apart with more than one bullet list
 
-- Like this
-- One
-- Right
-- Here
+## Challenge 3: The Board Presentation
+
+### Notes & Guidance
+- Open Google Slides. Use Gemini to create a slide outline based specifically on the "Product Definition Document" you created in Challenge 1.
+- Visuals: On the "Target Audience" slide, use Gemini to generate an image of "diverse college students using a mobile banking app on a university campus, photorealistic style".
+- Data Integration: Create a slide titled "Market Validation." Use Gemini to generate a bar chart description or visualization based on the Pivot Table data from Challenge 2.
+- Speaker Notes: Ask Gemini to write speaker notes for the final slide that anticipates a question about "Account Security" and provides a confident answer.
+
+> [!NOTE]  
+> There is a new feature from Nano Bannana that will beautify the slide. What it does is look at a slide and creates an image of a slide that can be added to the deck. This is an image and can't be edited once added to the deck
+
+## Challenge 4: The Regional Campaign
+
+### Notes & Guidance
+
+- Branch Enablement: Open a new Doc. Prompt Gemini to act as a Sales Enablement Lead. Draft a "Talking Points" script for local branch managers to use when students walk in. Ensure it highlights "No Fees" and "Mobile Check Deposit",.
+- Customer Email: Open Gmail. Draft a launch email targeting "Young Professionals/Students." Prompt Gemini to reference the "Product Definition Document" to ensure the features are accurate, but set the tone to be "exciting, youthful, and financially savvy".
+- A/B Testing: Ask Gemini to generate three different subject line options for the email: one focusing on "Savings," one on "Technology," and one on "Freedom".
+
