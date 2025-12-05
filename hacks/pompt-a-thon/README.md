@@ -12,10 +12,10 @@ This exercise is not centered on proficiency in document creation or typing spee
 
 ## Learning Objectives
 
-In this hack you will be solving the common business problem of creating, analyzing data and preparing communications for different audiances.
+In this hack you will be solving the common business problem of analyzing data and preparing communications for different audiances.
 
 By the end of this hack, attendees will be able to:
-- Use Gemini in Docs to synthesize meeting transcripts into compliance-ready project proposals.
+- Use Gemini in Docs to analyze and sumarize meeting transcripts into project proposals.
 - Use Gemini in Sheets to categorize customer sentiment and identify financial product preferences.
 - Use Gemini in Slides to generate visual assets and presentations from written documentation.
 
@@ -34,6 +34,7 @@ By the end of this hack, attendees will be able to:
 ## Contributors
 
 - Chris Kirby
+- Gemini 3
 
 ## Challenge 1: The Product Definition
 
