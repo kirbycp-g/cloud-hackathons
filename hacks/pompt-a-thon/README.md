@@ -9,7 +9,7 @@ Your team is tasked with defining the product, analyzing survey data to either v
 This exercise is not centered on proficiency in document creation or typing speed. Rather, it emphasizes mastering the strategic application of the Gemini prompt. You will utilize Google Workspace Gemini AI tools to enhance your documents, spreadsheets, and presentations. The core challenge involves skillfully guiding these AI tools to produce the required final product. 
 
 > [!NOTE]  
-> Although Gemini will help with the creation, it will generate similar (and rather bland) ideas if you enter the challenge description in verbatim. So you are encourged to experiment with formatting and other Gemini tools to create documents nad presentations with style for the intended audiance. Your documents will be judged at the end so style points count!
+> Gemini will help with the document creation, it will generate similar (and rather bland) ideas if you enter the challenge description in verbatim. So you are encourged to experiment with promtps, formatting and leverage other Gemini tools to create documents and presentations with style for the intended audiance. Your documents will be judged at the end so style points count!
 
 ## Learning Objectives
 In this hack you will be solving the common business problem of analyzing data and preparing communications for different audiances.
