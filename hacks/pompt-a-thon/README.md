@@ -8,10 +8,7 @@ Your team is tasked with defining the product, analyzing survey data to either v
 
 This exercise is not centered on proficiency in document creation or typing speed. Rather, it emphasizes mastering the strategic application of the Gemini prompt. You will utilize Google Workspace Gemini AI tools to enhance your documents, spreadsheets, and presentations. The core challenge involves skillfully guiding these AI tools to produce the required final product.
 
-
-
 ## Learning Objectives
-
 In this hack you will be solving the common business problem of analyzing data and preparing communications for different audiances.
 
 By the end of this hack, attendees will be able to:
@@ -19,26 +16,26 @@ By the end of this hack, attendees will be able to:
 - Use Gemini in Sheets to categorize customer sentiment and identify financial product preferences.
 - Use Gemini in Slides to generate visual assets and presentations from written documentation.
 
-
 ## Challenges
-
 - Challenge 1: The Product Definition
 - Challenge 2: The Market Analysis
 - Challenge 3: The Board Presentation
 - Challenge 4: The Regional Campaign
 
 ## Prerequisites
-
 - Basic knowledge of Google Workspace.
 
-## Contributors
+> [!NOTE]  
+> Its a good idea to record your prompts as you expereiment and see what reposnses you get. During the challenge there should be a shared document by your coach that you can use to copy in prompts, edit, and copy back into your workspace. 
 
+## Contributors
 - Chris Kirby
+- Ahmed Nomani
 - Gemini 3
 
 ## Challenge 1: The Product Definition
-
 ### Introduction 
+
 #### Create a structured Product Definition Document (PDD) from unstructured meeting notes.
 Bank Executives convened a meeting to evaluate the Future-Fi Student Account, addressing key features, associated risks, and various other considerations. A comprehensive transcript of the meeting, which delineates product features, compliance risks has been produced. The objective of this effort is to formally consolidate this information into a two-page proposal, suitable for submission and presentation to the Risk Committee.
 
@@ -50,18 +47,19 @@ Bank Executives convened a meeting to evaluate the Future-Fi Student Account, ad
 - The document contains four distinct sections: Executive Summary, Target Audience, Interest Rate Structure, and Compliance Disclosures, all accurately reflecting the details from the transcript.
 - A "Risk Assessment" section is present, listing at least three regulatory risks and mitigation strategies derived from the transcript.
 
+### Tips
+- Might be a good idea to see what a good Prodcut Definition Document for a bank might look like?
+- Although Gemini will help with the creation, it will generate similar (and rather bland) ideas if you enter the challenge description in verbatim there will be judging at the end so style points count!
 
 ## Challenge 2: The Market Analysis
-
 ### Introduction
-#### Validate the product need using customer data.
 
+#### Validate the product need using customer data.
 Now that the initial product has been defined in Challenge 1, it is opportune to conduct market research to ascertain its potential success. Regional Bank commissioned a survey targeting students within its service area.
 
 Leverage Gemini to analyze the "Comments" column. Following this analysis, establish an additional column to categorize the feedback into the following domains: 'Interest Rates', 'Mobile App Experience', 'Fees', or 'Branch Location'.
 
 The analysis should be concluded by presenting a concise summary of the findings.
-
 
 > [!NOTE]  
 > Survey data can be found here: [StudentSurvey.csv](resources/student-survey-data.csv)
@@ -71,10 +69,13 @@ The analysis should be concluded by presenting a concise summary of the findings
 - A summary table (Pivot Table or formula-based) exists in the sheet that quantifies the number of "Mobile App Experience" feedback items versus "Interest Rate" requests.
 - Summary Statement from the data analysis
 
+### Tips
+- Google Search is also fair game in helping with the prompts and understanding features in Google Sheets
+- Remember there will be judging at the end so style points count!
 
 ## Challenge 3: The Board Presentation 
-
 ### Introduction 
+
 #### Visualize the strategy for the Board.
 The product has been defined and initial research is complete. The next critical step is to seek approval from the board by presenting a focused pitch.
 
@@ -87,17 +88,17 @@ When crafting the presentation, it is important to incorporate best practices fo
 
 The pitch should focus on showing how the product solves business problems and addresses unmet user needs, rather than just listing features. The objective is to secure the board's buy-in on the strategy and execution plan.
 
-
 ### Success Criteria
-
 - A Google Slides deck exists containing exactly 6 slides.
 - The "Target Audience" slide features a unique, AI-generated image of "college students on a university campus" (not a stock photo or clipart).
 - The "Market Validation" slide contains a chart or visualization that accurately represents the data summary created in Challenge 2.
 
+### Tips
+- Google Slides now includes an AI-powered "Beautify this slide" feature. This feature uses the Gemini family of models to enhance the visual design of existing slides. Try it!! Style Points!!
 
 ## Challenge 4: The Regional Campaign
-
 ### Introduction 
+
 #### Execute the product launch communications.
 Congratulations; your team has secured approval for the new Future-Fi Student Account.
 
@@ -111,4 +112,5 @@ However, the team's responsibilities have not concluded. Assistance is now requi
 
 ### Success Criteria
 A "Branch Script" document exists, and a draft email is ready with three distinct subject line options.
+
 
