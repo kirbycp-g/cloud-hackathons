@@ -6,7 +6,10 @@ Regional Bank executives have recently initiated discussions regarding the devel
 
 Your team is tasked with defining the product, analyzing survey data to either validate existing features or identify new ones, and subsequently preparing the presentation for Board approval. Finally, your team will be responsible for developing the launch materials for distribution to all bank branches.
 
-This exercise is not centered on proficiency in document creation or typing speed. Rather, it emphasizes mastering the strategic application of the Gemini prompt. You will utilize Google Workspace Gemini AI tools to enhance your documents, spreadsheets, and presentations. The core challenge involves skillfully guiding these AI tools to produce the required final product.
+This exercise is not centered on proficiency in document creation or typing speed. Rather, it emphasizes mastering the strategic application of the Gemini prompt. You will utilize Google Workspace Gemini AI tools to enhance your documents, spreadsheets, and presentations. The core challenge involves skillfully guiding these AI tools to produce the required final product. 
+
+> [!NOTE]  
+> Although Gemini will help with the creation, it will generate similar (and rather bland) ideas if you enter the challenge description in verbatim. So you are encourged to experiment with formatting and other Gemini tools to create documents nad presentations with style for the intended audiance. Your documents will be judged at the end so style points count!
 
 ## Learning Objectives
 In this hack you will be solving the common business problem of analyzing data and preparing communications for different audiances.
