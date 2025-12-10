@@ -44,6 +44,7 @@ Bank Executives convened a meeting to evaluate the Future-Fi Student Account, ad
 
 > [!NOTE]  
 > Copy the Transcript here: [ComplianceMeetingTranscript](https://github.com/kirbycp-g/cloud-hackathons/raw/refs/heads/pompt-a-thon/hacks/pompt-a-thon/resources/compliance-meeting-transcript.txt)
+>Right Click the link above and select `Save File As`
 
 ### Success Criteria
 - A new Google Doc titled "Product Definition Document" is created.
@@ -66,6 +67,7 @@ The analysis should be concluded by presenting a concise summary of the findings
 
 > [!NOTE]  
 > Survey data can be found here: [StudentSurvey.csv](https://github.com/kirbycp-g/cloud-hackathons/raw/refs/heads/pompt-a-thon/hacks/pompt-a-thon/resources/student-survey-data.csv)
+>Right Click the link above and select `Save File As`
 
 ### Success Criteria
 - The student-survey-data.csv file is now a Google Sheet with at least two new columns populated by Gemini: "Category" and "Sentiment".
