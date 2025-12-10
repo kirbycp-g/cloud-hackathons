@@ -43,7 +43,7 @@ By the end of this hack, attendees will be able to:
 Bank Executives convened a meeting to evaluate the Future-Fi Student Account, addressing key features, associated risks, and various other considerations. A comprehensive transcript of the meeting, which delineates product features, compliance risks has been produced. The objective of this effort is to formally consolidate this information into a two-page proposal, suitable for submission and presentation to the Risk Committee.
 
 > [!NOTE]  
-> Copy the Transcript here: [ComplianceMeetingTranscript](resources/compliance-meeting-transcript.txt)
+> Copy the Transcript here: [ComplianceMeetingTranscript](https://github.com/kirbycp-g/cloud-hackathons/blob/pompt-a-thon/hacks/pompt-a-thon/resources/compliance-meeting-transcript.txt)
 
 ### Success Criteria
 - A new Google Doc titled "Product Definition Document" is created.
