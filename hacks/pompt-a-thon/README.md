@@ -12,7 +12,7 @@ This exercise is not centered on proficiency in document creation or typing spee
 > Gemini will help with the document creation, it will generate similar (and rather bland) ideas if you enter the challenge description in verbatim. So you are encouraged to experiment with prompts, formatting and leverage other Gemini tools to create documents and presentations with style for the intended audience. Your documents will be judged at the end so style points count!
 
 ## Learning Objectives
-In this hack you will be solving the common business problem of analyzing data and preparing communications for different audiances.
+In this hack you will be solving the common business problem of analyzing data and preparing communications for different audiences.
 
 By the end of this hack, attendees will be able to:
 - Use Gemini in Docs to analyze and summarize meeting transcripts into project proposals.
@@ -43,7 +43,7 @@ By the end of this hack, attendees will be able to:
 Bank Executives convened a meeting to evaluate the Future-Fi Student Account, addressing key features, associated risks, and various other considerations. A comprehensive transcript of the meeting, which delineates product features, compliance risks has been produced. The objective of this effort is to formally consolidate this information into a two-page proposal, suitable for submission and presentation to the Risk Committee.
 
 > [!NOTE]  
-> Copy the Transcript here: [ComplianceMeetingTranscript](https://github.com/kirbycp-g/cloud-hackathons/blob/pompt-a-thon/hacks/pompt-a-thon/resources/compliance-meeting-transcript.txt)
+> Copy the Transcript here: [ComplianceMeetingTranscript](https://github.com/kirbycp-g/cloud-hackathons/raw/refs/heads/pompt-a-thon/hacks/pompt-a-thon/resources/compliance-meeting-transcript.txt)
 
 ### Success Criteria
 - A new Google Doc titled "Product Definition Document" is created.
@@ -65,7 +65,7 @@ Leverage Gemini to analyze the "Comments" column. Following this analysis, estab
 The analysis should be concluded by presenting a concise summary of the findings.
 
 > [!NOTE]  
-> Survey data can be found here: [StudentSurvey.csv](resources/student-survey-data.csv)
+> Survey data can be found here: [StudentSurvey.csv](https://github.com/kirbycp-g/cloud-hackathons/raw/refs/heads/pompt-a-thon/hacks/pompt-a-thon/resources/student-survey-data.csv)
 
 ### Success Criteria
 - The student-survey-data.csv file is now a Google Sheet with at least two new columns populated by Gemini: "Category" and "Sentiment".
