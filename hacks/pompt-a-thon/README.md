@@ -9,13 +9,13 @@ Your team is tasked with defining the product, analyzing survey data to either v
 This exercise is not centered on proficiency in document creation or typing speed. Rather, it emphasizes mastering the strategic application of the Gemini prompt. You will utilize Google Workspace Gemini AI tools to enhance your documents, spreadsheets, and presentations. The core challenge involves skillfully guiding these AI tools to produce the required final product. 
 
 > [!NOTE]  
-> Gemini will help with the document creation, it will generate similar (and rather bland) ideas if you enter the challenge description in verbatim. So you are encourged to experiment with promtps, formatting and leverage other Gemini tools to create documents and presentations with style for the intended audiance. Your documents will be judged at the end so style points count!
+> Gemini will help with the document creation, it will generate similar (and rather bland) ideas if you enter the challenge description in verbatim. So you are encouraged to experiment with prompts, formatting and leverage other Gemini tools to create documents and presentations with style for the intended audience. Your documents will be judged at the end so style points count!
 
 ## Learning Objectives
 In this hack you will be solving the common business problem of analyzing data and preparing communications for different audiances.
 
 By the end of this hack, attendees will be able to:
-- Use Gemini in Docs to analyze and sumarize meeting transcripts into project proposals.
+- Use Gemini in Docs to analyze and summarize meeting transcripts into project proposals.
 - Use Gemini in Sheets to categorize customer sentiment and identify financial product preferences.
 - Use Gemini in Slides to generate visual assets and presentations from written documentation.
 
@@ -29,7 +29,7 @@ By the end of this hack, attendees will be able to:
 - Basic knowledge of Google Workspace.
 
 > [!NOTE]  
-> Its a good idea to record your prompts as you expereiment and see what reposnses you get. During the challenge there should be a shared document by your coach that you can use to copy in prompts, edit, and copy back into your workspace. 
+> Its a good idea to record your prompts as you experiment and see what responses you get. During the challenge there should be a shared document by your coach that you can use to copy in prompts, edit, and copy back into your workspace. 
 
 ## Contributors
 - Chris Kirby
@@ -51,7 +51,7 @@ Bank Executives convened a meeting to evaluate the Future-Fi Student Account, ad
 - A "Risk Assessment" section is present, listing at least three regulatory risks and mitigation strategies derived from the transcript.
 
 ### Tips
-- Might be a good idea to see what a good Prodcut Definition Document for a bank might look like?
+- Might be a good idea to see what a good Product Definition Document for a bank might look like?
 - Although Gemini will help with the creation, it will generate similar (and rather bland) ideas if you enter the challenge description in verbatim there will be judging at the end so style points count!
 
 ## Challenge 2: The Market Analysis
@@ -93,7 +93,7 @@ The pitch should focus on showing how the product solves business problems and a
 
 ### Success Criteria
 - A Google Slides deck exists containing exactly 6 slides.
-- The "Target Audience" slide features a unique, AI-generated image of "college students on a university campus" (not a stock photo or clipart).
+- The "Target Audience" slide features a unique, AI-generated image of "college students on a university campus" (not a stock photo or clip art).
 - The "Market Validation" slide contains a chart or visualization that accurately represents the data summary created in Challenge 2.
 
 ### Tips

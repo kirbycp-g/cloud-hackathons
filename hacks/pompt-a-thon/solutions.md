@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to the coach's guide for The Pompt - a - Thon gHack. Here you will find links to specific guidance for coaches for each of the challenges.
+Welcome to the coach's guide for The Prompt - a - Thon gHack. Here you will find links to specific guidance for coaches for each of the challenges.
 
 > [!NOTE]  
 > If you are a gHacks participant, this is the answer guide. Don't cheat yourself by looking at this guide during the hack!
@@ -51,7 +51,7 @@ This is designed to fit into a 2 hour window to complete all of the challenges.
 
 
 ## Environment
-This gHack uses Google Workspace and does not require any addtional Cloud resources.
+This gHack uses Google Workspace and does not require any additional Cloud resources.
 
 ## Challenge 1: The Product Definition
 
@@ -81,7 +81,7 @@ Steps:
 - Speaker Notes: Ask Gemini to write speaker notes for the final slide that anticipates a question about "Account Security" and provides a confident answer.
 
 > [!NOTE]  
-> There is a new feature from Nano Bannana that will beautify the slide. What it does is look at a slide and creates an image of a slide that can be added to the deck. This is an image and can't be edited once added to the deck
+> There is a new feature from Nano Banana that will beautify the slide. What it does is look at a slide and creates an image of a slide that can be added to the deck. This is an image and can't be edited once added to the deck
 
 ## Challenge 4: The Regional Campaign
 
